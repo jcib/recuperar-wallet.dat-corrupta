@@ -1,4 +1,5 @@
-# Corrupted wallet.dat FIX
+# Pequeño tutorial para recuperar claves privadas
+
 Pasos para recuperar las claves privadas de la billetera de cualquier criptodivisa.
 
 Si nos vemos en una situación parecida a la siguiente:
