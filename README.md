@@ -3,7 +3,7 @@ Pasos para recuperar las claves privadas de la billetera de cualquier criptodivi
 
 Si nos vemos en una situación parecida a la siguiente:
 
-<img src="https://i.ibb.co/TPYrKgK/corrupt-wallet.png" height="128" width="128">
+<img src="https://i.ibb.co/TPYrKgK/corrupt-wallet.png" height="350" width="350">
 
 Significa que el cliente no puede abrir el fichero que contiene las claves privadas. Necesitamos un editor de textos en hexadecimal. Recomiendo wxHexEditor.
 
