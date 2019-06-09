@@ -40,9 +40,9 @@ Las 32 parejas de bytes que hay después de esta secuencia de números son tus c
 
 <img src="https://i.ibb.co/gWXtJdg/6.png">
 
-9. Ya tienes tu clave privada. Impórtala y repite el proceso hasta dar con la que *contiene* vuestras monedas.
+9. Ya tienes tu clave privada. Impórtala y repite el proceso hasta dar con la que *contiene* tus monedas.
 
-
+:exclamation: Si te ha parecido útil, compártelo. :exclamation:
 
 
 
