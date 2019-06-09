@@ -15,7 +15,7 @@ Significa que el cliente no puede abrir el fichero que contiene las claves priva
 
 3. Ejecuta el editor. Abre la "wallet.dat" corrompida.
 
-<img src="https://https://i.ibb.co/2v0Rm0z/1.png">
+<img src="https://i.ibb.co/2v0Rm0z/1.png">
 
 4. Dale a "Control + F" y busca los siguientes números: 0201010420. Dale a "Buscar todas". A mí me han aparecido 90.
 
